@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[JeremyStuart]]></title>
         <description><![CDATA[JeremyStuart]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jeremystuart/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 20:19:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jan 2016 20:45:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jeremystuart/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Coach Poppy Flower</p>]]></description>
-            <link>undefinede1367bd1-4480-4877-8045-f001eda53e92/index.html</link>
+            <title><![CDATA[Lancelot Law Whyte]]></title>
+            <description><![CDATA[<article><h1>Lancelot Law Whyte</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/556ab11ddf131cf7c375da483876e1e0f18076fa.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jeremystuart/e1367bd1-4480-4877-8045-f001eda53e92/index.html</link>
             <guid isPermaLink="false">e1367bd1-4480-4877-8045-f001eda53e92</guid>
-            <pubDate>Tue, 19 Jan 2016 20:19:44 GMT</pubDate>
+            <pubDate>Tue, 19 Jan 2016 20:44:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
