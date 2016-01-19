@@ -1,0 +1,28 @@
+name: JeremyStuart
+favicon: null
+layout_spectrum: 0.4754389049485326
+typography_spectrum: 0.7662657017353922
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8299654526636004
+  lightness: 0.0006405336316674948
+  saturation: 0.6632000152021646
+  rhythmicContrast: 0.5212715500965714
+purpose: []
